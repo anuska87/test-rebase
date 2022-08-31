@@ -11,3 +11,5 @@ const patata2 = {
   mainBranch: 2.75,
   lili: 3,
 };
+
+const prueba = {};
